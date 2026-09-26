@@ -1,0 +1,4 @@
+{
+  "pair_error_code": "E_BAD_PAIR",
+  "text": "host=local;port=8080;host=remote;note=a=b"
+}
